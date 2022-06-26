@@ -42,8 +42,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=default &card_width=320&langs_count=3&theme=buefy&hide_border=false&custom_title=Most Used Languages:&username=lettyciasilva" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/lettyciasilva/lettyciasilva/blob/output/snake.svg" alt="Snake animation" />
-
-###
