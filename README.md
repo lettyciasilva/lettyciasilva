@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Graduating in Information Systems (IFMG-Ouro Branco), seeking improvement and experience in the area to become a Developer. Civil Engineer in career transition, I'm passionate about technology and programming. I belive that technology can change the world!</h3>
+<h3 align="left">Civil Engineer in career transition, seeking improvement and experience in the area to become a Developer. I'm passionate about technology and programming. I belive that technology can change the world!</h3>
 
 ###
 
-<p align="left">I'm living in Brazil, Minas Gerais 🇧🇷<br>I'm a Information Systems student 🎓💻</p>
+<p align="left">I'm living in Brazil, Minas Gerais 🇧🇷</p>
 
 ###
 
@@ -33,6 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
 
